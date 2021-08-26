@@ -18,4 +18,10 @@ python
 ```
 ![新生訓練顯示](https://i.imgur.com/p8aD4hF.png)
 
+* Red
+* Green
+* Blue
+
+##### tag: `Hi` `readme`
+
 
